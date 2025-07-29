@@ -1,7 +1,11 @@
-# birmele_2003
+# Birmele 2003 Conjecture
 DeepSeek-R1 supposedly finds a counterexample to Birmele's 2003 conjecture.
 
+## Problem
+
 <img width="1958" height="206" alt="image" src="https://github.com/user-attachments/assets/f9a380e5-1908-46db-927c-bece63c00d83" />
+
+## Supposed Solution
 
 The statement claims that if every pair of cycles of length at least \(k\) in a graph share at least one common vertex, then there exists a set of \(k\) vertices that intersects every such cycle. However, this is not true for all \(k\), as demonstrated by a counterexample for \(k = 1\).
 
